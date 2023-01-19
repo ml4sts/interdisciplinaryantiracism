@@ -92,7 +92,7 @@ html_sidebars = {
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html']
 }
 blog_baseurl = "https://ml4sts.com"
-blog_title = ""
+blog_title = "Interdisciplinary Antiracism"
 blog_path = "news"
 blog_feed_length = 5
 fontawesome_included = True
