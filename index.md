@@ -64,7 +64,7 @@ Design & Engineering.
 
 <!-- ```{list-table} -->
 - Time:  Wednesday Mar 29, 2023 at 4pm
- - Location
+- Location: Honors Auditorium in Lippit
 <!-- * -
   - TBA
 ``` -->
@@ -74,8 +74,8 @@ Design & Engineering.
 ### [Tiara Moore](https://www.tiaramoore.com/)
 
 <!-- ```{list-table} -->
-- Time: Wednesday Apr 12, 2023 at 4pm
-- Location: TBA @GSO
+- Time: Thursday Apr 13, 2023 at 4pm
+- Location: Coastal Institute's Auditorium at GSO
 <!-- * - 
   - TBA @ GSO
 ``` -->
