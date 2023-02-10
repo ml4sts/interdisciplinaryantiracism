@@ -52,8 +52,8 @@ Design & Engineering.
 ### [Ashia Wilson](https://www.ashiawilson.com/)
 
 <!-- ```{list-table} -->
-- Time: Thursday Mar 2, 2023 at 3pm
-- Location: TBA
+- Time: Thursday Mar 2, 2023 at 4pm
+- Location: Anchor Room at the Welcome Center
 <!-- * - 
   - 
 ``` -->
@@ -85,7 +85,7 @@ Design & Engineering.
 ### Closing Panel & Reception 
 
 <!-- ```{list-table} -->
-- Time: April 19th, 2023 at 4pm
+- Time: April 19th, 2023  4-5:30pm
 - Location: Hope room @ welcome center 
 <!-- * - 
   - 
