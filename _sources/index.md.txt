@@ -49,7 +49,9 @@ Design & Engineering.
 
 
 
-### [Ashia Wilson](https://www.ashiawilson.com/)
+### A double consciousness: my journey in data science 
+
+#### [Ashia Wilson](https://www.ashiawilson.com/)
 
 <!-- ```{list-table} -->
 - Time: Thursday Mar 2, 2023 at 4pm
@@ -58,7 +60,9 @@ Design & Engineering.
   - 
 ``` -->
 
+ “It is a peculiar sensation, this double-consciousness, this sense of always looking at one’s self through the eyes of others, of measuring one’s soul by the tape of a world that looks on” in fetishized exceptionalism and pity. “One ever feels [her] twoness, — an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder.” This statement was written by Du Bois in his book “Souls of Black folks” and was amended by me. In this talk, I will reflect on how this sentiment describes my experience as a data scientist.
 
+Ashia Wilson joined the Department of Electrical Engineering and Computer Science as an Assistant Professor in January. Wilson received her PhD in Statistics from the University of California, Berkeley, and her BA in Applied Mathematics from Harvard. Her research centers upon optimization, algorithmic decision making, dynamical systems, and fairness within large scale machine learning. A National Science Foundation Graduate Research Fellow, Wilson has received the NeurIPS ’17 Spotlight Paper Award for The Marginal Value of Adaptive Methods in Machine Learning, and has performed research with Microsoft and Google AI. Her papers have been published in the Proceedings of the National Academy of Science, in Advances in Neural Information Processing Systems, and in the International Conference of Machine Learning, among others. Additionally, she has served as a reviewer for NeurIPS and the Journal of Machine Learning.
 
 ### [James Doucet-Battle](https://doucetbattle.sites.ucsc.edu/)
 
