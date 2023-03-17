@@ -64,7 +64,8 @@ Design & Engineering.
 
 Ashia Wilson joined the Department of Electrical Engineering and Computer Science at MIT as a Lister Brothers Career Development Assistant Professor in January 2021. Wilson received her PhD in Statistics from the University of California, Berkeley, and her BA in Applied Mathematics from Harvard. Her research centers upon optimization, algorithmic decision making, dynamical systems, and fairness within large scale machine learning. A National Science Foundation Graduate Research Fellow, Wilson has received the NeurIPS ’17 Spotlight Paper Award for The Marginal Value of Adaptive Methods in Machine Learning, and has performed research with Microsoft and Google AI. Her papers have been published in the Proceedings of the National Academy of Science, in Advances in Neural Information Processing Systems, and in the International Conference of Machine Learning, among others. Additionally, she has served as a reviewer for NeurIPS and the Journal of Machine Learning.
 
-### [James Doucet-Battle](https://doucetbattle.sites.ucsc.edu/)
+### Sweetness, Laboratory Life, and Social Death: The Problem of Diversity
+#### [James Doucet-Battle](https://doucetbattle.sites.ucsc.edu/)
 
 <!-- ```{list-table} -->
 - Time:  Wednesday Mar 29, 2023 at 4pm
@@ -74,6 +75,20 @@ Ashia Wilson joined the Department of Electrical Engineering and Computer Scienc
 ``` -->
 
 
+James Doucet- Battle will present an overview of his scholarly journey beginning with his first
+book, Sweetness in the Blood: Race, Risk, and Type 2 Diabetes (Minnesota 2021), and how this
+research informs his examination of the bioethical intersections of race, science, technology. He
+argues that the lack of underrepresented diversity among students and researchers in STEMM
+and STS raises larger questions of justice that supersede extant discourses centered on consent
+and inclusion. Toward addressing the diversity gap in STEMM and STS, Doucet-Battle will
+discuss collaborative efforts of the Science and Justice Research Center (SJRC), the Genomics
+Institute (GI) at UCSC, and North Carolina A&amp;T State University to create bidirectional
+pathways for attracting HBCU students for graduate study at the University of California.
+Drawing from Latour, Patterson, and DuBois, he will bring this discussion full circle to outline
+his current project, Laboratory Life and Social Death: The Problem of Diversity in Science and
+Society.
+
+James Doucet-Battle is an Associate Professor in the Department of Sociology at the University of California, Santa Cruz. He is a graduate of the University of California, Berkeley/University San Francisco Joint Medical Anthropology Program. His research and teaching interests lie at the intersection of science, technology and society studies, development studies and anthropological approaches to health and medicine. He applies these interests to study the political economy of genomic discourses about race, risk, and health disparities.
 
 ### [Tiara Moore](https://www.tiaramoore.com/)
 
