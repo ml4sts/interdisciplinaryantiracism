@@ -90,6 +90,7 @@ Society.
 
 James Doucet-Battle is an Associate Professor in the Department of Sociology at the University of California, Santa Cruz. He is a graduate of the University of California, Berkeley/University San Francisco Joint Medical Anthropology Program. His research and teaching interests lie at the intersection of science, technology and society studies, development studies and anthropological approaches to health and medicine. He applies these interests to study the political economy of genomic discourses about race, risk, and health disparities.
 
+## Eutrophic Estuaries and Racist Systems, A love story
 ### [Tiara Moore](https://www.tiaramoore.com/)
 
 <!-- ```{list-table} -->
@@ -99,6 +100,8 @@ James Doucet-Battle is an Associate Professor in the Department of Sociology at 
   - TBA @ GSO
 ``` -->
 
+
+Nutrient pollution has been impacting coastal ecosystems like estuaries causing devastating impacts for decades. Biodiversity loss, habitat destruction and reduction of natural resources are among these major impacts. Similarly, racism has been impacting every ecosystem causing devastating social impacts for centuries. Mass murders, community destruction, and reduction of social resources are among these major impacts. Working at the intersection of these spaces, Dr. Tiara Moore has found a way to turn trauma into triumph. 
 <!-- Founder of Black in Marine Science -->
 
 ### Closing Panel & Reception 
